@@ -36,13 +36,13 @@
 				      <muleVersion>4.3.0</muleVersion>
 				      <username>kas102020</username>
 				      <password>S@rita123</password>
-				      <applicationName>hello-world</applicationName>
+				      <applicationName>hello-my-world1</applicationName>
 				      <environment>Sandbox</environment>
 				      <workers>1</workers>
-				      <workerType>Micro</workerType>
+				      <workerType>MICRO</workerType>
 				      <objectStoreV2>true</objectStoreV2>
-				      
 				    </cloudHubDeployment>
+				    										
 				</configuration>
 			</plugin>
 		</plugins>
